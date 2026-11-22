@@ -1,0 +1,3 @@
+Verified 22 November 2026. Maven tests: 2; failures: 0; errors: 0.
+Run ./mvnw verify to reproduce unit and integration tests.
+Run python3 smoke.py after starting the demo to exercise localhost services.
